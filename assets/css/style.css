@@ -4,18 +4,20 @@ h1,
 h2,
 h3,
 h4 {
-    text-transform: uppercase;
     margin: 0;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
 }
 
 h3 {
     text-align:center
 }
 .container-fluid {
-    background-color:#017506;
+    background-color:#046306;
     padding-top: 0px ;
     padding-bottom: 0px;
+    max-height: 200px;
+    margin: auto;
 }
 
 .logo {
@@ -32,13 +34,13 @@ h3 {
 .title {
     font-family: "sans-serif";
     color:#fafafa;
-    font-size: 30px;
-    font-style: italic;
+    font-size: 1.5em;
 }
 
 .nav {
 padding-top:0px;
 padding-bottom: 0px;
+margin: auto;
 }
 
 .nav-link {
@@ -66,6 +68,7 @@ padding-bottom: 0px;
 
 .footer {
     background-color:#808080 ;
+    text-align: center;
 }
 
 .btn {
