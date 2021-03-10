@@ -8,8 +8,15 @@ The website was created as a platform for Esther to connect with her audience, s
 ### STRATEGY
 The goal for this project is to create a platform for the artist Esther Cole to gather and showcase in one place everything that she does relating to her artistry. This not only will make managing content, promotion and communication simpler for Esther but will also help aid engagement and the transfer of information between her and her audience. 
 
-I am creating a website that contains relevant information about Esther, and provides access to all work related to her artistry. The aim is for the website to act as a virtual home to Esther. Like visiting a friend - ideally, here is where you can learn more, feel as if you have spent time with Esther, listen to her music, listen to her podcasts, chat with other fans, buy merchandise, apply to her artist development camps and watch out for updates and shoutouts from Esther. It's a place for Esther to connect with her followers and for followers to connect with her. It's also a place for Esther to tale advantage of to promotion and sales as a business woman.
- 
+I am creating a website that contains relevant information about Esther, and provides access to all work related to her artistry. The aim is for the website to act as a virtual home to Esther. Like visiting a friend - ideally, here is where you can learn more, feel as if you have spent time with Esther, listen to her music, listen to her podcasts, chat with other fans, buy merchandise, apply to her artist development camps and watch out for updates and shoutouts from Esther. It's a place for Esther to connect with her followers and for followers to connect with her. It's also a place for Esther to take advantage of to promotion and sales as a business woman.
+
+#### Pointers:
+
+1. The website was developed for the artist community.
+2. There is a massively important to ensure that the right content is being displayed. Esther's audience want to see music, info about what's coming up, opportunities and ways to engage with Esther's work. To buy tickets and merchandise.
+3. A website is appropriate because it enables us to provide all of this in one place.
+4 There is huge value in this website because it can help increase the awareness of Esther's brand, increase sales on all her products and create more followers.
+5. The website acts as a place to find everything and will link users to external platforms which means that website management is minimal and will only needed to be updated when neccessary. The content will be eye catching, simple and straight to the point.
 ### SCOPE
 What feature based on strategy do we want to include. What's on the table and whats not.
 Desirable features that you doont have time and resources for
@@ -22,7 +29,6 @@ How is the infortmaiton stuctured logically.
 Priorities menu table
 Why is About important
 list priorites inorder and explain why
-
 
 ### SKELETON
 Creating markups. How the information should be implemented. How do we position the content
