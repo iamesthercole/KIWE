@@ -80,5 +80,35 @@ list priorites inorder and explain why
 ### SKELETON
 Creating markups. How the information should be implemented. How do we position the content
 include wireframe
+
 ### SURFACE
 colours, tranitions, animations
+
+# FEATURES
+
+### EXISTING FEATURES
+- Feature 1 - allows users X to achieve Y, by having them fill out Z
+- Feature 2
+Think about referencing files
+
+### FEATURES LEFT TO IMPLEMENT 
+- Another feature idea is
+
+# TECHNOLOGIES USED
+mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+* JQUERY
+    * The project uses JQuery to simplify DOM manipulation
+
+# TESTING
+
+# DEPLOYMENT
+
+# CREDITS
+### CONTENT
+- The text for section Y was copied from the [Wikipedoa article z](https://en.wikipedia.org/wiki/Z)
+ 
+### MEDIA
+- The photos used in the site were obtained from
+
+### ACKNOWLEDGEMENTS
+* I receieved inspiration for this project from
