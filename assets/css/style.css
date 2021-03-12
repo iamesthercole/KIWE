@@ -82,7 +82,7 @@ body {
 .container-fluid {
     background-color:#3d88cf;
     padding-top: 40px ;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     min-height: 150px;
     margin: auto;
 }
@@ -95,7 +95,7 @@ body {
     color: #000000;
     padding: 10px;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 20px;
 }
 
 .nav {
@@ -118,10 +118,22 @@ margin: auto;
     color: #fafafa;
 }
 
+.center-form {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+.center-footer {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
 /*--------------------------------------------------Buttons and Forms*/
 
 .content-button {
 max-width: 30%;
+padding-top: 40px;
 }
 
 .alert {
@@ -141,13 +153,30 @@ max-width: 30%;
 
 .landing-page-cob {
     background-color: #3d88cf;
-    border-width: thick;
+    border-width: medium;
     border-color: #000000;
+}
+
+.subscribe-btn {
+   position: relative; 
+   padding-bottom: 40px;
 }
 
 .btn-black {
     color: #000000 !important;
     font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.terms {
+    color: #000000 !important;
+    font-weight: 30px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.fa {
+    size: 40px;
 }
 
 /*--------------------------------------------------About Me*/
