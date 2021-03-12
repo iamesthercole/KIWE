@@ -2,10 +2,12 @@
 
 body {
     background-color:#3d88cf;
+    padding:0px;
+    margin:0px;
 }
 /* --------------------------------Text Styles*/
 
-h1 {
+h1, h2, h3, h4 {
     text-transform: uppercase;
 }
 
@@ -55,6 +57,32 @@ h1 {
     font-size: 400%;
     font-weight: bolder;
 }
+
+.general-callout {
+    color: #fafafa;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+
+.repeat-subscribe-advert {
+    color: #fafafa;
+    text-align: right;
+    padding-bottom: 0px;
+}
+
+.repeat-submit-button {
+    background-color: #000000;
+    color: #fafafa;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
 /*------------------------------------Images*/
 
 .hero-image {
@@ -73,11 +101,12 @@ h1 {
 }
 
 .album-cover{
+    display: block;
     position: relative;
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     overflow: hidden;
-    border-radius: 0%;
+    border-radius: 50%;
 }
 
 .header {
@@ -106,9 +135,23 @@ h1 {
 .container-fluid {
     background-color:#3d88cf;
     padding-top: 40px ;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     min-height: 150px;
     margin: auto;
+}
+
+.general-container {
+    padding-top: 40px ;
+    padding-bottom: 40px;
+    min-height: 150px;
+    margin: auto;
+}
+
+.general-center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding-top: 40px;
 }
 
 .center {
@@ -123,9 +166,9 @@ h1 {
 }
 
 .nav {
-padding-top:0px;
-padding-bottom: 0px;
-margin: auto;
+    padding-top:0px;
+    padding-bottom: 0px;
+    margin: auto;
 }
 
 .nav-link {
@@ -170,6 +213,22 @@ margin: auto;
     min-height: 300px;
 }
 
+.mailing-list-advert {
+    min-height: 150px;
+    width: 100%;
+    background-color: #000000;
+}
+
+.signup-promo {
+    color: #fafafa;
+    text-transform: uppercase;
+    clear: both;
+    float: left;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 50px;
+
+}
 /*--------------------------------------------------Buttons and Forms*/
 
 .content-button {
@@ -209,12 +268,32 @@ padding-top: 40px;
     text-transform: uppercase;
 }
 
+.right-form {
+    padding-top: 40px;
+    padding-right: 50px;
+    margin: auto;
+    width: 50%;
+    text-align: right;
+    float: right;
+}
+
 .terms {
     color: #000000 !important;
     font-weight: 30px;
     font-size: 10px;
     font-weight: bold;
 }
+
+.repeat-terms {
+    color: #fafafa !important;
+    font-weight: 25px;
+    font-size: 10px;
+    font-weight: bold;
+    float: right;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
 
 .fa {
     size: 40px;
