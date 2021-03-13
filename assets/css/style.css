@@ -83,7 +83,7 @@ h1, h2, h3, h4 {
     padding-bottom: 0px;
 }
 
-/*------------------------------------Images*/
+/*------------------------------------Images and Media*/
 
 .hero-image {
     background: url("../images/hero.jpg");
@@ -96,8 +96,7 @@ h1, h2, h3, h4 {
     margin-bottom: 0px;
     margin-top: 0px;
     max-width: 100%;
-    height: auto;
-    
+    height: auto; 
 }
 
 .album-cover{
@@ -117,6 +116,13 @@ h1, h2, h3, h4 {
     height: 400px;
     position: top;
 }
+
+iframe {
+  margin:0 auto;
+  display:block;
+  padding-bottom: 20px;
+}
+
 /*------------------------------------Containers Styles*/
 
 .container {
@@ -141,8 +147,8 @@ h1, h2, h3, h4 {
 }
 
 .general-container {
-    padding-top: 40px ;
-    padding-bottom: 40px;
+    padding-top: 10px ;
+    padding-bottom: 10px;
     min-height: 150px;
     margin: auto;
 }
@@ -151,7 +157,8 @@ h1, h2, h3, h4 {
     margin: auto;
     width: 50%;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 10px;
+    
 }
 
 .center {
